@@ -27,7 +27,7 @@ body {
 
 #navbar li a:hover:not(a:active) {
   background-color: #111;
-  transition: 0.5s;
+  transition: 0.25s;
 }
 
 #navbar li a:active {
